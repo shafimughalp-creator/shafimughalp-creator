@@ -1,52 +1,58 @@
-<h1 align="center">Hi there, I'm MUHAMMAD SHAFI MUGHAL! 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Shafi Mughal! 👋</h1>
 
 <p align="center">
   <i>Learning Data Science in public — one dataset, one commit, one project at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-Day%201%20of%2090-blueviolet?style=for-the-badge" alt="90 Day Progress">
 </p>
 
 <br>
 
 ## 🧭 About Me
 
-I'm a BS AI student building real Data Science skills through a structured **90-Day Roadmap** — not just watching tutorials, but shipping projects, breaking things, and documenting the process on GitHub.
+I'm a BS AI student building real Data Science skills through a structured **90-Day Roadmap** — not just watching tutorials, but writing code, breaking things, fixing them, and documenting every step on GitHub.
 
-> 🛠️ I believe in **learning by building**, not just learning by watching.
-
-> 📈 Progress over perfection — every commit here is proof of work, not a highlight reel.
+> 🛠️ **Learning by building** — not learning by watching.
+> 📈 **Progress over perfection** — every commit here is proof of work, not a highlight reel.
+> 🎯 **Goal-driven** — every concept I learn is aimed at freelance work, internships, and a real job, not just a certificate.
 
 <br>
 
 ## 🗺️ My 90-Day Data Science Roadmap
 
-- 📊 **Statistics for Data Science** — descriptive stats, probability, hypothesis testing, correlation
-- 🐍 **Python Programming** — core syntax, functions, clean code structure
-- 🔢 **NumPy & Pandas** — data manipulation, cleaning, EDA at scale
-- 🗄️ **SQL for Data Analysis** — joins, subqueries, window functions, CTEs
-- 📈 **Data Visualization** — Matplotlib & Seaborn for clear, honest charts
-- 🤖 **Machine Learning with scikit-learn** — regression, classification, clustering
-- 🚀 **Model Deployment & End-to-End Projects** — Streamlit apps, full pipelines, capstone work
+| Phase | Focus | Status |
+|---|---|---|
+| 📊 Statistics for Data Science | Descriptive stats, probability, hypothesis testing, correlation | 🔄 In Progress |
+| 🐍 Python Programming | Core syntax, functions, clean code structure | ⏳ Upcoming |
+| 🔢 NumPy & Pandas | Data manipulation, cleaning, EDA at scale | ⏳ Upcoming |
+| 🗄️ SQL for Data Analysis | Joins, subqueries, window functions, CTEs | ⏳ Upcoming |
+| 📈 Data Visualization | Matplotlib & Seaborn for clear, honest charts | ⏳ Upcoming |
+| 🤖 Machine Learning | Regression, classification, clustering with scikit-learn | ⏳ Upcoming |
+| 🚀 Deployment & Capstone | End-to-end pipelines, Streamlit apps, final project | ⏳ Upcoming |
 
 <br>
 
 ## 🎯 Learning Philosophy & Goals
 
-> Every phase of this roadmap ends with a real project — not just notes. If I can't build it, I haven't learned it yet.
+> Every phase of this roadmap ends with a real exercise — not just notes. If I can't build it, I haven't learned it yet.
 
-> A clean README and a reproducible notebook matter as much as the model itself. Recruiters and clients judge how you *present* your work, not just the work.
+> A clean, reproducible notebook matters as much as the result itself. People judge how you *present* your work, not just the work.
 
-**Where I'm headed:** freelance data analysis projects → internships → a full-time Data Science role, built on a portfolio of real, documented work rather than certificates alone.
+**Where I'm headed:** freelance data analysis work → internships → a full-time Data Science role — built on real, documented practice instead of certificates alone.
 
 <br>
 
-## ✅ Progress Tracking
+## ✅ Progress Tracker
 
-- [x] Phase 1 — Statistics & Math Foundations
-- [x] Phase 2 — Pandas & NumPy / EDA
+- [ ] Phase 1 — Statistics & Math Foundations *(in progress)*
+- [ ] Phase 2 — Pandas & NumPy / EDA
 - [ ] Phase 3 — SQL for Data Analysis
 - [ ] Phase 4 — Machine Learning with scikit-learn
 - [ ] Phase 5 — Capstone Projects & Deployment
 
-*Updated as each phase is completed — see pinned repos below for the project tied to each one.*
+*Updated as each phase is completed.*
 
 <br>
 
@@ -90,54 +96,13 @@ I'm a BS AI student building real Data Science skills through a structured **90-
 
 <br>
 
-## 📌 Pinned Projects
-
-> Pin your strongest repos here once published — recommended order: SQL practice repo, best EDA project, best ML project, capstone.
-
-| Project | Description | Stack |
-|---|---|---|
-| [PROJECT_NAME_1] | One-line description of what it does and the question it answers | Python, Pandas |
-| [PROJECT_NAME_2] | One-line description | SQL |
-| [PROJECT_NAME_3] | One-line description | scikit-learn |
-| [PROJECT_NAME_4] | Capstone — end-to-end pipeline | Python, SQL, ML, Streamlit |
-
-<br>
-
-## 🧠 Curated Data Science & Tech Resources
-
-> Tutorials and walkthroughs that shaped how I learn — swap in your own video breakdowns here once you start creating them.
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_1">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_1/hqdefault.jpg" width="100%" alt="Resource 1"><br>
-        <b>[Resource Title 1]</b>
-      </a><br>
-      <sub>⏱ Timestamp: 00:00 · Duration: 00:00</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_2">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg" width="100%" alt="Resource 2"><br>
-        <b>[Resource Title 2]</b>
-      </a><br>
-      <sub>⏱ Timestamp: 00:00 · Duration: 00:00</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.youtube.com/watch?v=VIDEO_ID_3">
-        <img src="https://img.youtube.com/vi/VIDEO_ID_3/hqdefault.jpg" width="100%" alt="Resource 3"><br>
-        <b>[Resource Title 3]</b>
-      </a><br>
-      <sub>⏱ Timestamp: 00:00 · Duration: 00:00</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 ## 📫 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+<br>
+
+<p align="center"><i>⭐ This profile updates as the 90-day journey progresses — check back to follow along.</i></p>
