@@ -11,9 +11,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: [Premier League Match Outcome Prediction](https://github.com/shafimughalp-creator/epl-match-outcome-predictor)
-- 🌱 Currently learning: **Machine Learning, EDA, and freelancing (client hunting)**
+- 🌱 Currently learning: **Machine Learning, EDA, and freelancing**
 - 👯 Open to collaborate on: [Olist Delivery Performance](https://github.com/shafimughalp-creator/olist-delivery-performance)
-- 🤝 Looking for help with: [Premier League Match Outcome Prediction](https://github.com/shafimughalp-creator/epl-match-outcome-predictor)
 - 💬 Ask me about: **Python, EDA, and coding**
 - ⚡ Fun fact: **I love finding patterns hidden in data** 🔍
 
@@ -30,50 +29,36 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/shafimughalp-creator/epl-match-outcome-predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shafimughalp-creator&repo=epl-match-outcome-predictor&theme=tokyonight&hide_border=true" alt="EPL Match Outcome Predictor" />
-  </a>
-  <a href="https://github.com/shafimughalp-creator/olist-delivery-performance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shafimughalp-creator&repo=olist-delivery-performance&theme=tokyonight&hide_border=true" alt="Olist Delivery Performance" />
-  </a>
-</p>
+| Project | What it does |
+|---|---|
+| [⚽ EPL Match Outcome Predictor](https://github.com/shafimughalp-creator/epl-match-outcome-predictor) | Predicts Premier League match results using machine learning |
+| [📦 Olist Delivery Performance](https://github.com/shafimughalp-creator/olist-delivery-performance) | EDA on Olist e-commerce delivery data |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shafimughalp-creator&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafimughalp-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Most used languages" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shafimughalp-creator&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafimughalp-creator&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" alt="Profile details" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Repos per language" />
 </p>
 
 ---
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shafimughalp-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub trophies" />
+  <img src="https://ghchart.rshah.org/0e75b6/shafimughalp-creator" alt="Contribution graph" width="90%" />
 </p>
 
 ---
