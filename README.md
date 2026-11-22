@@ -27,13 +27,13 @@
 📌 Featured Projects
 Project
 What it does
-⚽ Premier League Prediction Engine	An end-to-end English Premier League intelligence platform featuring machine learning-based match outcome predictions, automated fixture synchronization, probability analysis, model evaluation, and an interactive Streamlit dashboard.
-📊 RetailSight Sales Analytics	Python-based sales data preparation and business reporting application for small retailers. Helps users clean, validate, analyze, and visualize sales data, with downloadable Excel data quality reports and PDF business reports. Built with Streamlit and Pandas.
-📦 Olist Delivery Performance	SQL + Pandas analysis of 96,476 Olist orders — delivery performance and customer satisfaction.
-⚽ EPL Match Outcome Predictor	Predicts Premier League match results using machine learning.
-🎯 90-Day Data Science Roadmap	90-day Data Science learning roadmap (Jupyter Notebook).
-🎯 90-Days Data Science	90-day Data Science learning practice repo (Jupyter Notebook).
-📝 shafimughalp-creator	This profile README repository — the page you are reading right now.
+⚽ Premier League Prediction Engine	End-to-end EPL prediction platform with ML models and Streamlit dashboard
+📊 RetailSight Sales Analytics	Sales data prep and reporting app for small retailers
+📦 Olist Delivery Performance	EDA on Olist e-commerce delivery data
+⚽ EPL Match Outcome Predictor	Predicts Premier League match results using machine learning
+🎯 90-Day Data Science Roadmap	90-day Data Science learning roadmap in Jupyter Notebooks
+🎯 90-Days Data Science	90-day Data Science practice repo in Jupyter Notebooks
+📝 shafimughalp-creator	This profile README repository
 
 📊 GitHub Stats
 <p align="center">
